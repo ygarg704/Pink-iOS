@@ -1,6 +1,6 @@
 # Pink+
 
-Code Snippets and supporting documentation for the Pink+ project by [The Misfits](https://the-misfits.github.io/), in India.
+Code Snippets and supporting documentation for the Pink+.
 
 To beta test the app using TestFlight, click [here](https://testflight.apple.com/join/EtgAcnax).
 
